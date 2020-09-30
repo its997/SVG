@@ -7,4 +7,5 @@
     to="360 190 50"
     dur="4s"
     repeatCount="indefinite" />
-</g></g></svg>
+    <line x1="-20" y1="0" x2="20" y2="0" style="stroke: black;" />
+    <line x1="0" y1="-20" x2="0" y2="20" style="stroke: black;" /> </g></g></svg>
