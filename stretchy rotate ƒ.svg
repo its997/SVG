@@ -3,7 +3,7 @@
         <animateTransform
             attributeName="transform"
             begin="0s"
-            dur="20s"
+            dur="4s"
             type="rotate"
             from="0 60 60"
             to="360 60 60"
